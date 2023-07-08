@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dammala Uday Kiran</h1>
 <h3 align="center">A machine learning enthusiast.</h3>
 
-- 🌱 I’m currently learning **Machine learning and Data analysis.**
-
 - 📫 How to reach me **udaykir3911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
