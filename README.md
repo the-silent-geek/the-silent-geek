@@ -12,4 +12,3 @@ I'm currently learning AI/ML.
 # 📊 GitHub Stats:
 <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=the-silent-geek&theme=dark&hide_border=false">
 <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-silent-geek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-<img align = "left" src="https://komarev.com/ghpvc/?username=the-silent-geek">
